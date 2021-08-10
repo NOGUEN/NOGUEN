@@ -16,6 +16,6 @@
 - 🎮 Indie Games
 
 <br/>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=CrazyImSoFlutter">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhg1113">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=CrazyImSoFlutter"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhg1113">
+
 
