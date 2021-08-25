@@ -15,10 +15,11 @@
 - 🎨 Drawing
 - 🎮 Indie Games
 
-<br/>
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhg1113">
-
 ## Blog
 
 - [CodingGorani](https://codinggorani.com/)
+
+<br/>
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhg1113">
+
 
