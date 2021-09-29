@@ -2,7 +2,7 @@
 
 ## Profile
 - 🦜 Currently learning <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
-- 💻 Majored in Computer Science
+- 💻 Majoring in Computer Science
 - 🇰🇷 Living in Seoul, Korea  
 
 ## Experience
