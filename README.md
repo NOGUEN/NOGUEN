@@ -22,4 +22,5 @@
 <br/>
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhg1113">
 
-  [![NOGUEN's github stats](https://github-readme-stats.vercel.app/api?username=NOGUEN)](https://github.com/NOGUEN/github-readme-stats)
+<br/>
+[![NOGUEN's github stats](https://github-readme-stats.vercel.app/api?username=NOGUEN)](https://github.com/NOGUEN/github-readme-stats)
