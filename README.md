@@ -17,7 +17,7 @@
 
 ## Blog
 
-- [CodingGorani](https://codinggorani.com/)
+- [CodingGorani](https://codinggorani.tistory.com)
 
 <br/>
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhg1113">
