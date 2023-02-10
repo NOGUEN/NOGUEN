@@ -17,7 +17,7 @@
 
 ## Blog
 
-- [NOGUEN Blog](https://noguen.oopy.io)
+- [NOGUEN Blog](https://noguen.com)
 
 <br/>
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhg1113">
