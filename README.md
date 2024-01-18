@@ -5,6 +5,7 @@
 <h3 align="center">✍️ 블로그</h3>
 <div align="center">
 <a href="noguen.com" target="_blank"><img src="https://img.shields.io/badge/NOGUEN 블로그-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/>
+<a href="https://noguen.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/NOGUEN 블로그-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/>
 
 <br>
 <br>
