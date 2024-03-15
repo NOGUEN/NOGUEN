@@ -4,7 +4,7 @@
 
 <h3 align="center">✍️ 블로그</h3>
 <div align="center">
-<a href="noguen.com" target="_blank"><img src="https://img.shields.io/badge/NOGUEN 블로그-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/>
+<a href="https://noguen.com" target="_blank"><img src="https://img.shields.io/badge/NOGUEN 블로그-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/>
 <a href="https://noguen.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/NOGUEN 블로그-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/>
 
 <br>
@@ -12,8 +12,8 @@
 
 <h3 align="center">📱 SNS </h3>
 <div align="center">
-<a href="www.instagram.com/noguen_noguen/" target="_blank"><img src="https://img.shields.io/badge/noguen_noguen-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
-<a href="www.instagram.com/noguen_draw/" target="_blank"><img src="https://img.shields.io/badge/noguen_draw-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://instagram.com/noguen_noguen" target="_blank"><img src="https://img.shields.io/badge/noguen_noguen-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+<a href="https://instagram.com/noguen_draw" target="_blank"><img src="https://img.shields.io/badge/noguen_draw-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 
 <br>
 <br>
