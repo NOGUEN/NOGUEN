@@ -6,7 +6,6 @@
 <div align="center">
 <a href="https://noguen.com" target="_blank"><img src="https://img.shields.io/badge/NOGUEN 블로그-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/>
 
-
 <br>
 <br>
 
@@ -27,3 +26,10 @@
 <h3 align="center">BOJ Stat</h3>
 <div align="center">
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhg1113">
+
+<br>
+<br>
+
+<h3 align="center">Github Stat</h3>
+
+[![NOGUEN yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOGUEN)](https://github.com/NOGUEN/github-readme-stats)
