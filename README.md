@@ -32,4 +32,4 @@
 
 <h3 align="center">Github Stat</h3>
 
-[![NOGUEN yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOGUEN)](https://github.com/NOGUEN/github-readme-stats)
+[![NOGUEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOGUEN)](https://github.com/NOGUEN/github-readme-stats)
